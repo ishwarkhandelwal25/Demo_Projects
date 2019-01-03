@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="exercise"/>
+<aop-project name="m2-configclient"/>
+<aop-project name="m2-configserver"/>
+<aop-project name="m2-configserver-git"/>
+</aop-reference-model>

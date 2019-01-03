@@ -1,0 +1,38 @@
+package threading;
+
+import java.util.concurrent.Semaphore;
+
+class DemoThread extends Thread{
+
+	/*public void start() {
+		super.start();
+		System.out.println("start");
+	}*/
+	public void run() {
+		System.out.println("run");
+	}
+	
+}
+
+public class Demo{
+	public static void main(String args[]) {
+/*		DemoThread demoThread = new DemoThread();
+		demoThread.start();
+		//demoThread.start();
+		System.out.println("main");
+		Semaphore a = new Semaphore(5); 
+		try {
+			a.acquire(8);
+			a.release(8);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		*/
+		int aa[] = new int[5];
+		System.out.println(aa);
+		StringBuilder s = new StringBuilder(8);
+		
+		
+	}
+}

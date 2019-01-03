@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;threading.countdownlatch.java&apos; to &apos;CountDownLatchDemo.java&apos;&#x0D;&#x0A;- Original project: &apos;threading&apos;&#x0D;&#x0A;- Original element: &apos;threading.countdownlatch.java&apos;&#x0D;&#x0A;- Renamed element: &apos;threading.CountDownLatchDemo.java&apos;" description="Rename compilation unit &apos;countdownlatch.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;threading{countdownlatch.java" name="CountDownLatchDemo.java" references="false" stamp="1543686013343" version="1.0"/>
+</session>
